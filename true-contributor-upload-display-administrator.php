@@ -2,7 +2,7 @@
 /*
 Plugin Name: True Contributor Uploads Display Administrator
 Description: Allows users with the contributor role to upload images. and only the administrator to be able to see the images uploaded by others.
-Version:     1.1
+Version:     1.0
 Author:      Ryo Uozumi
 Author URI:  https://ryo.nagoya
 License: GPLv3 or later
